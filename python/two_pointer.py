@@ -1,6 +1,7 @@
 import math;
 list = ["python","c++","javascript","testing"]
 
+intList = [100,44,55,66,22,345]
 
 def twoPointerSearch(array, find):
     length = len(array)
