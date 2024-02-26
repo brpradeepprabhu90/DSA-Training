@@ -1,0 +1,5 @@
+Linear Search - unsorted array - one value - (O(n))
+Two pointer result - unsorted array -   one value - faster approach (max, min)
+Binary Search - sorted array - one value
+
+Sorting - Big O
